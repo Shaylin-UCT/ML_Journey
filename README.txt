@@ -1,1 +1,0 @@
-# My personal DS/ML/AI journey. A little bit of everything.
