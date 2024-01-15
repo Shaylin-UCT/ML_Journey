@@ -1,1 +1,1 @@
-Welcome to my ML journey! Let's have some ML fun. Let's jump right in. Okay :)
+# My personal DS/ML/AI journey. A little bit of everything.
